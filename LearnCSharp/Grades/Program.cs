@@ -10,10 +10,14 @@ namespace Grades
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Grades project");
+            Console.WriteLine("Grades project\n");
 
             GradeBook book = new GradeBook();
+            book.NameChanged += OnNameChanged;
+
             book.Name = "First Gradebook";
+            book.Name = "Second Gradebook\n";
+
             book.AddGrade(91);
             book.AddGrade(89.5f);
             book.AddGrade(75);
@@ -24,6 +28,11 @@ namespace Grades
             WriteResult("Average", stats.AverageGrade);
             WriteResult("Highest", (int)stats.HighestGrade);
             WriteResult("Lowest", stats.LowestGrade);
+        }
+
+        static void OnNameChanged(object sender, NameChangedEventArgs args)
+        {
+            Console.WriteLine($"Grade book changing name from {args.ExistingName} to {args.NewName}");
         }
 
         static void WriteResult(string description, int result)
