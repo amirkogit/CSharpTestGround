@@ -46,10 +46,8 @@ namespace Grades
             {
                 if(!String.IsNullOrEmpty(value))
                 {
-
+                    _name = value;
                 }
-
-                _name = value;
             }
         }
 
