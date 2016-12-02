@@ -33,7 +33,7 @@ namespace Grades
 
         static void WriteResult(string description, float result)
         {
-            Console.WriteLine($"{description} : {result:F2}", description, result);
+            Console.WriteLine($"{description} : {result:F2}");
         }
     }
 }
