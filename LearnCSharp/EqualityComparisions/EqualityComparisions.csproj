@@ -47,6 +47,9 @@
     <Compile Include="EqualButtons.cs" />
     <Compile Include="EqualFloats.cs" />
     <Compile Include="EqualInts.cs" />
+    <Compile Include="EqualityButtons.cs" />
+    <Compile Include="EqualityInt.cs" />
+    <Compile Include="EqualityStrings.cs" />
     <Compile Include="EqualStrings.cs" />
     <Compile Include="FoodEquals.cs" />
     <Compile Include="FoodEqualsButton.cs" />
