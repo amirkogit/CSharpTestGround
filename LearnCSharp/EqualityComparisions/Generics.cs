@@ -20,7 +20,7 @@ namespace EqualityComparisions
             Console.WriteLine("Equal? " + object.Equals(x,y));
 
             // this line will not compile because we can't use == with generic types
-            Console.WriteLine("(x == y) will not compile!");
+            Console.WriteLine("(x == y) will not compile!!");
             //Console.WriteLine("Equal? " + (x == y));
         }
     }
