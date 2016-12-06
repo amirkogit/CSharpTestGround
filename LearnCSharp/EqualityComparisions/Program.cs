@@ -23,7 +23,6 @@ namespace EqualityComparisions
             EqualTuples.RunDemo();
             Inheritance.RunDemo();
             Generics.RunDemo();
-            // test:dummy commit
         }
     }
 }
