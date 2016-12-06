@@ -19,6 +19,10 @@ namespace EqualityComparisions
             EqualityInt.RunDemo();
             EqualityButtons.RunDemo();
             EqualityStrings.RunDemo();
+            EqualValueTypes.RunDemo();
+            EqualTuples.RunDemo();
+            Inheritance.RunDemo();
+            Generics.RunDemo();
         }
     }
 }
