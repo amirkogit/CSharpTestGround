@@ -1,7 +1,6 @@
 # CSharpTestGround
-Repository for learning different C# features.
-
-##LearnCSharp.sln is the main solution file that consists of following projects:
+- Repository for learning different C# features.
+- LearnCSharp.sln is the main solution file that consists of following projects:
 
 ##Hello:
 Hello World program in C# !
