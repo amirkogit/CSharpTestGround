@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EqualityComparisions
+namespace EqualityComparisons
 {
     public class Food
     {

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades", "Grades\Grades.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades.Tests", "Grades.Tests\Grades.Tests.csproj", "{435B4DAF-B2DB-4FC3-805C-0EF3F14F899B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityComparisions", "EqualityComparisions\EqualityComparisions.csproj", "{B002826D-62E1-49A7-9C16-5E7985D353AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityComparisons", "EqualityComparisions\EqualityComparisons.csproj", "{B002826D-62E1-49A7-9C16-5E7985D353AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

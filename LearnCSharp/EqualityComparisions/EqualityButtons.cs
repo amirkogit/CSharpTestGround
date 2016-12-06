@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace EqualityComparisions
+namespace EqualityComparisons
 {
     public class EqualityButtons
     {
