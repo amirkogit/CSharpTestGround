@@ -10,9 +10,12 @@ namespace EqualityComparisions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Equality-Comparisions demo.\n");
+            Console.WriteLine("Equality-Comparisions demo:\n");
 
             EqualButtons.RunDemo();
+            EqualFloats.RunDemo();
+            EqualInts.RunDemo();
+            EqualStrings.RunDemo();
         }
     }
 }

@@ -45,6 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EqualButtons.cs" />
+    <Compile Include="EqualFloats.cs" />
+    <Compile Include="EqualInts.cs" />
+    <Compile Include="EqualStrings.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
