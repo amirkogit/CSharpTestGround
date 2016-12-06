@@ -14,6 +14,7 @@ namespace EqualityComparisions
             EqualStrings.RunDemo();
             FoodEquals.RunDemo();
             StringEquals.RunDemo();
+            IEquatableInt.RunDemo();
         }
     }
 }

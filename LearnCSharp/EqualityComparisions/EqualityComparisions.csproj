@@ -49,6 +49,7 @@
     <Compile Include="EqualInts.cs" />
     <Compile Include="EqualStrings.cs" />
     <Compile Include="FoodEquals.cs" />
+    <Compile Include="IEquatableInt.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringEquals.cs" />
