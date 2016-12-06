@@ -17,7 +17,7 @@ namespace EqualityComparisions
 
             Console.WriteLine("str1 == " + str1);
             Console.WriteLine("str2 == " + str2);
-            Console.WriteLine(str1 == str2);
+            Console.WriteLine(str1 == str2); // returns TRUE : checks value equality
 
             Console.WriteLine();
         }

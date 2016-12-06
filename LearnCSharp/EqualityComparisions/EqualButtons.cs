@@ -19,7 +19,7 @@ namespace EqualityComparisions
             Button button2 = new Button();
             button2.Text = "Button 2";
 
-            Console.WriteLine(button1 == button2);
+            Console.WriteLine(button1 == button2); // returns FALSE --> checked reference equality
             Console.WriteLine();
         }
     }
