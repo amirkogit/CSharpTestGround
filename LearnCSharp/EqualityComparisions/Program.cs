@@ -13,6 +13,7 @@ namespace EqualityComparisions
             EqualInts.RunDemo();
             EqualStrings.RunDemo();
             FoodEquals.RunDemo();
+            StringEquals.RunDemo();
         }
     }
 }
