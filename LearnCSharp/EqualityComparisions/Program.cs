@@ -23,7 +23,7 @@ namespace EqualityComparisons
             EqualTuples.RunDemo();
             Inheritance.RunDemo();
             Generics.RunDemo();
-            // some random comments after cherry-pick
+            ValueTypeEquality.RunDemo();
         }
     }
 }
