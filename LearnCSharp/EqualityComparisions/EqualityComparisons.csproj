@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CookedFood.cs" />
     <Compile Include="EqualButtons.cs" />
     <Compile Include="EqualFloats.cs" />
     <Compile Include="EqualInts.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="EqualStrings.cs" />
     <Compile Include="EqualTuples.cs" />
     <Compile Include="EqualValueTypes.cs" />
+    <Compile Include="FoodBaseRefType.cs" />
     <Compile Include="FoodEquals.cs" />
     <Compile Include="FoodEqualsButton.cs" />
     <Compile Include="FoodItemValueType.cs" />
@@ -61,6 +63,7 @@
     <Compile Include="Inheritance.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RefTypeEquality.cs" />
     <Compile Include="StringEquals.cs" />
     <Compile Include="ValueTypeEquality.cs" />
   </ItemGroup>

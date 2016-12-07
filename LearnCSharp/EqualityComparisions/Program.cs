@@ -24,6 +24,7 @@ namespace EqualityComparisons
             Inheritance.RunDemo();
             Generics.RunDemo();
             ValueTypeEquality.RunDemo();
+            RefTypeEquality.RunDemo();
         }
     }
 }
