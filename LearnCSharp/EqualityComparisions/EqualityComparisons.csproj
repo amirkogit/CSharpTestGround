@@ -7,8 +7,8 @@
     <ProjectGuid>{B002826D-62E1-49A7-9C16-5E7985D353AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EqualityComparisions</RootNamespace>
-    <AssemblyName>EqualityComparisions</AssemblyName>
+    <RootNamespace>EqualityComparisons</RootNamespace>
+    <AssemblyName>EqualityComparisons</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
