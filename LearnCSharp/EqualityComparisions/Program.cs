@@ -25,6 +25,7 @@ namespace EqualityComparisons
             Generics.RunDemo();
             ValueTypeEquality.RunDemo();
             RefTypeEquality.RunDemo();
+            StringIntCompare.RunDemo();
         }
     }
 }
