@@ -8,8 +8,12 @@ namespace EqualityComparisons
         Vegetables,
         Sweets
     }
+
     public struct FoodItemValueType : IEquatable<FoodItemValueType>
     {
+        private readonly string _name;
+        private readonly FoodGroup _group;
+
         public FoodItemValueType(string name, FoodGroup group)
         {
             this._name = name;
@@ -63,8 +67,5 @@ namespace EqualityComparisons
         {
             return _name.GetHashCode() ^ _group.GetHashCode();
         }
-
-        private readonly string _name;
-        private readonly FoodGroup _group;
     }
 }
