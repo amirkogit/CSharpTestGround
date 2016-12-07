@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalorieCount.cs" />
+    <Compile Include="CalorieCountCompare.cs" />
     <Compile Include="CookedFood.cs" />
     <Compile Include="EqualButtons.cs" />
     <Compile Include="EqualFloats.cs" />

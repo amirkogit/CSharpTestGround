@@ -26,6 +26,7 @@ namespace EqualityComparisons
             ValueTypeEquality.RunDemo();
             RefTypeEquality.RunDemo();
             StringIntCompare.RunDemo();
+            CalorieCountCompare.RunDemo();
         }
     }
 }
