@@ -70,6 +70,7 @@
     <Compile Include="RefTypeEquality.cs" />
     <Compile Include="StringEquals.cs" />
     <Compile Include="StringIntCompare.cs" />
+    <Compile Include="StringPooling.cs" />
     <Compile Include="ValueTypeEquality.cs" />
   </ItemGroup>
   <ItemGroup>
