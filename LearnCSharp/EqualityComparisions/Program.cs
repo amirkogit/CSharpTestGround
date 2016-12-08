@@ -35,6 +35,7 @@ namespace EqualityComparisons
             EqualityComparerDemo.RunDemo();
             StringComparers.RunDemo();
             FoodItemNameOnlyEqualityComparerDemo.RunDemo();
+            FoodItemEqualityComparer2Demo.RunDemo();
         }
     }
 }

@@ -62,6 +62,8 @@
     <Compile Include="FoodEquals.cs" />
     <Compile Include="FoodEqualsButton.cs" />
     <Compile Include="FoodItemEqualityComparer.cs" />
+    <Compile Include="FoodItemEqualityComparer2.cs" />
+    <Compile Include="FoodItemEqualityComparer2Demo.cs" />
     <Compile Include="FoodItemNameOnlyEqualityComparer.cs" />
     <Compile Include="FoodItemNameOnlyEqualityComparerDemo.cs" />
     <Compile Include="FoodItemValueType.cs" />
