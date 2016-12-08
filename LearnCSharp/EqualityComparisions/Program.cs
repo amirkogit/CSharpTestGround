@@ -30,6 +30,7 @@ namespace EqualityComparisons
             OrdinalCompareStrings.RunDemo();
             CompareStringsDemo.RunDemo();
             StringPooling.RunDemo();
+            SortItemsWithComparer.RunDemo();
         }
     }
 }

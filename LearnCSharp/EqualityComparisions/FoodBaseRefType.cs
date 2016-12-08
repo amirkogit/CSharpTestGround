@@ -24,6 +24,8 @@ namespace EqualityComparisons
             return _name;
         }
 
+        #region equality implementation
+
         public static bool operator == (FoodBaseRefType x, FoodBaseRefType y)
         {
             return object.Equals(x, y);
@@ -51,5 +53,7 @@ namespace EqualityComparisons
         {
             return this._name.GetHashCode() ^ this._group.GetHashCode();
         }
+
+        #endregion
     }
 }
