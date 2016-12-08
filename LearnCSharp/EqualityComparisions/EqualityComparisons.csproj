@@ -63,6 +63,7 @@
     <Compile Include="Generics.cs" />
     <Compile Include="IEquatableInt.cs" />
     <Compile Include="Inheritance.cs" />
+    <Compile Include="OrdinalCompareStrings.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RefTypeEquality.cs" />
