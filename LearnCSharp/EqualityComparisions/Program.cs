@@ -31,6 +31,7 @@ namespace EqualityComparisons
             CompareStringsDemo.RunDemo();
             StringPooling.RunDemo();
             SortItemsWithComparer.RunDemo();
+            InconsistentSorting.RunDemo();
         }
     }
 }

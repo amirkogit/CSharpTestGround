@@ -64,6 +64,7 @@
     <Compile Include="FoodNameComparer.cs" />
     <Compile Include="Generics.cs" />
     <Compile Include="IEquatableInt.cs" />
+    <Compile Include="InconsistentSorting.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="OrdinalCompareStrings.cs" />
     <Compile Include="Program.cs" />
