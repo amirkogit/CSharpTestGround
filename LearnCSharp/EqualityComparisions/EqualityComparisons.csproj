@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="CalorieCount.cs" />
     <Compile Include="CalorieCountCompare.cs" />
+    <Compile Include="CompareStringsDemo.cs" />
     <Compile Include="CookedFood.cs" />
     <Compile Include="EqualButtons.cs" />
     <Compile Include="EqualFloats.cs" />
