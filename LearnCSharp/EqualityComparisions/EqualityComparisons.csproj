@@ -52,6 +52,7 @@
     <Compile Include="EqualFloats.cs" />
     <Compile Include="EqualInts.cs" />
     <Compile Include="EqualityButtons.cs" />
+    <Compile Include="EqualityComparerDemo.cs" />
     <Compile Include="EqualityInt.cs" />
     <Compile Include="EqualityStrings.cs" />
     <Compile Include="EqualStrings.cs" />
@@ -60,6 +61,7 @@
     <Compile Include="FoodBaseRefType.cs" />
     <Compile Include="FoodEquals.cs" />
     <Compile Include="FoodEqualsButton.cs" />
+    <Compile Include="FoodItemEqualityComparer.cs" />
     <Compile Include="FoodItemValueType.cs" />
     <Compile Include="FoodNameComparer.cs" />
     <Compile Include="Generics.cs" />
