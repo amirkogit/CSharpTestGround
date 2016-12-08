@@ -33,6 +33,7 @@ namespace EqualityComparisons
             SortItemsWithComparer.RunDemo();
             InconsistentSorting.RunDemo();
             EqualityComparerDemo.RunDemo();
+            StringComparers.RunDemo();
         }
     }
 }

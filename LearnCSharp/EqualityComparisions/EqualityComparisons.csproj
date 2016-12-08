@@ -73,6 +73,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RefTypeEquality.cs" />
     <Compile Include="SortItemsWithComparer.cs" />
+    <Compile Include="StringComparers.cs" />
     <Compile Include="StringEquals.cs" />
     <Compile Include="StringIntCompare.cs" />
     <Compile Include="StringPooling.cs" />
