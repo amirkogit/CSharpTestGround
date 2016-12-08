@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace EqualityComparisons
 {
-    public class EqualButtons
+    public class EqualButtonsDemo
     {
         public static void RunDemo()
         {

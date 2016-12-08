@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class EqualValueTypes
+    public class EqualValueTypesDemo
     {
         // helper inner struc
         struct Food

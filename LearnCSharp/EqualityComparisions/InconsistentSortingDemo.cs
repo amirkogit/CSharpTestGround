@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace EqualityComparisons
 {
-    public class InconsistentSorting
+    public class InconsistentSortingDemo
     {
         public static void RunDemo()
         {

@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class StringEquals
+    public class StringEqualsDemo
     {
         public static void RunDemo()
         {

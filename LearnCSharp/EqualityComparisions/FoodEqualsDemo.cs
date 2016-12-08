@@ -25,7 +25,7 @@ namespace EqualityComparisons
         private string _name;
     }
 
-    public class FoodEquals
+    public class FoodEqualsDemo
     {
         public static void RunDemo()
         {

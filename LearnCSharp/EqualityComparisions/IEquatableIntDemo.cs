@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EqualityComparisons
 {
-    public class IEquatableInt
+    public class IEquatableIntDemo
     {
         public static void RunDemo()
         {

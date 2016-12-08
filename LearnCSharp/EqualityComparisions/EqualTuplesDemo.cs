@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class EqualTuples
+    public class EqualTuplesDemo
     {
         public static void RunDemo()
         {

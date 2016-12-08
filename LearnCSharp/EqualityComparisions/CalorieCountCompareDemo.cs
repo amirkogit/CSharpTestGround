@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class CalorieCountCompare
+    public class CalorieCountCompareDemo
     {
         public static void RunDemo()
         {

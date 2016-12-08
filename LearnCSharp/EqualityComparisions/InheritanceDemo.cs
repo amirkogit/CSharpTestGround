@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class Inheritance
+    public class InheritanceDemo
     {
         public static void RunDemo()
         {

@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class Generics
+    public class GenericsDemo
     {
         public static void RunDemo()
         {

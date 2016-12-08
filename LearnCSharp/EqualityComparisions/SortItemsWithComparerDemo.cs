@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace EqualityComparisons
 {
-    public class SortItemsWithComparer
+    public class SortItemsWithComparerDemo
     {
         public static void RunDemo()
         {

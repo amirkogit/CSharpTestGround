@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace EqualityComparisons
 {
-    public class StringComparers
+    public class StringComparersDemo
     {
         public static void RunDemo()
         {

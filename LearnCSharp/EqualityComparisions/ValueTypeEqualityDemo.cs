@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class ValueTypeEquality
+    public class ValueTypeEqualityDemo
     {
         public static void RunDemo()
         {

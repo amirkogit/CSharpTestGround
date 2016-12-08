@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class EqualInts
+    public class EqualIntsDemo
     {
         public static void RunDemo()
         {

@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class StringPooling
+    public class StringPoolingDemo
     {
         public static void RunDemo()
         {

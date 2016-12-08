@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class RefTypeEquality
+    public class RefTypeEqualityDemo
     {
         public static void RunDemo()
         {

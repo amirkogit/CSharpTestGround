@@ -1,7 +1,7 @@
 ﻿using System;
 namespace EqualityComparisons
 {
-    public class OrdinalCompareStrings
+    public class OrdinalCompareStringsDemo
     {
         public static void RunDemo()
         {

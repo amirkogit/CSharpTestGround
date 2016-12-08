@@ -2,7 +2,7 @@
 
 namespace EqualityComparisons
 {
-    public class EqualFloats
+    public class EqualFloatsDemo
     {
         public static void RunDemo()
         {
