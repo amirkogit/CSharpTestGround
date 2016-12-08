@@ -34,6 +34,7 @@ namespace EqualityComparisons
             InconsistentSorting.RunDemo();
             EqualityComparerDemo.RunDemo();
             StringComparers.RunDemo();
+            FoodItemNameOnlyEqualityComparerDemo.RunDemo();
         }
     }
 }
