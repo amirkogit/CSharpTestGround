@@ -13,6 +13,8 @@ namespace Collections
             Console.WriteLine("Collections demo:\n");
 
             EnumerateArrayDemo.RunDemo();
+            ForeachReadOnlyDemo.RunDemo();
+            ChangePersonDemo.RunDemo();
         }
     }
 }

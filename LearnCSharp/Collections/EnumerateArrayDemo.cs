@@ -33,6 +33,8 @@ namespace Collections
             {
                 Console.WriteLine(daysofWeek[i]);
             }
+
+            Console.WriteLine();
         }
     }
 }
